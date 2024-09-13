@@ -1,1 +1,1 @@
-botting program to make interaction with client script
+ botting program to make interaction with client script
